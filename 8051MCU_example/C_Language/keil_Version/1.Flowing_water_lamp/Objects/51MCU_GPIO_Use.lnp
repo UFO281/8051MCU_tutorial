@@ -1,4 +1,4 @@
 ".\Objects\STARTUP.obj",
-".\Objects\main.obj" 
+".\Objects\Main.obj" 
 TO ".\Objects\51MCU_GPIO_Use" 
 PRINT(".\Listings\51MCU_GPIO_Use.m51") RAMSIZE(256) 
